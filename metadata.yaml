@@ -1,0 +1,27 @@
+_repo: The-Call-of-the-Twentieth-Century-an-Address-to-Young-Men_9469
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jordan, David Starr
+    alias: Jordan, D. S. (David Starr)
+    birthdate: 1851
+    deathdate: 1931
+    gutenberg_agent_id: '1566'
+    url: http://www.gutenberg.org/2009/agents/1566
+    wikipedia: http://en.wikipedia.org/wiki/David_Starr_Jordan
+description: ''
+gutenberg_issued: '2005-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9469'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life'
+- !lcsh 'Young men'
+- !lcc 'BJ'
+- GITenberg
+title: The Call of the Twentieth Century, an Address to Young Men
+url: http://www.gutenberg.org/ebooks/9469
